@@ -97,4 +97,4 @@ This project is **open for contributions**! If you want to **extend functionalit
 
 ## 📜 License
 
-This project is **MIT licensed** – free to use, modify, and contribute!
+This project is **MIT licensed** – free to use, modify, and contribute
